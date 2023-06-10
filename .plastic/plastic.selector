@@ -1,0 +1,4 @@
+repository "explorer@wideyard@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
